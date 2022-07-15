@@ -7,6 +7,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fast-xml-parser": "^4.0.9",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
